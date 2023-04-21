@@ -24,7 +24,8 @@ Discord is already very accessible, with a web app, desktop apps, and phone apps
 
 
 
-<img src=images/sqlite3_example.png width="70%">
+<!-- <img src=images/sqlite3_example.png width="70%"> -->
+![Sqlite3 Example Image][product-screenshot]
 
 
 ## Objective
@@ -70,7 +71,8 @@ installed, as well as a discord application created through the Discord develope
 Blocks of code (Code Cells) are sent over Discord as a normal chat message. 
 Compiling/Running code, as well as other actions, are performed by reacting to a message with certain emojis.
 
-<img src=images/actions.png width="70%">
+<!-- <img src=images/actions.png width="70%"> -->
+![Available Actions Image][actions-screenshot]
 
 A list of all actions and indicators can be found by using the ```/actions``` command.
 
@@ -106,7 +108,8 @@ But since a Discord Bot can only modify their own messages, they can not stylize
 * **Discord uses special characters for stylizing.** Any Code Cell that contains these characters will still function, but will not look accurate. 
 This becomes obvious in languages that excessively use these characters, like Malbolge.
 
-<img src="images/malbolge_formating.png" width="70%">
+<!-- <img src="images/malbolge_formating.png" width="70%"> -->
+![Formatting Issues Example Image][malbolge-screenshot]
 
 
 ## Future Plans
